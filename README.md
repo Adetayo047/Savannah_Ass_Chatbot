@@ -61,8 +61,8 @@ Ensure you have the following installed on your system:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Adetayo047/SavannahTech_Conversational_Agent.git
-   cd SavannahTech_Conversational_Agent
+   git clone https://github.com/Adetayo047/Savannah_Ass_Chatbot.git
+   cd Savannah_Ass_Chatbot
    ```
    #### Create a Virtual Environment
 
