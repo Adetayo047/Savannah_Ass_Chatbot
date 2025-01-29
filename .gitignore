@@ -1,0 +1,42 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore environment files
+#.env
+
+# Ignore logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Ignore virtual environments
+venv/
+env/
+.venv/
+
+# Ignore Docker-related files (if needed)
+.dockerignore
+
+# Ignore user data and evaluation results
+# data/USERS/
+# data/user_contacts.csv
+
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore build artifacts
+build/
+dist/
+
+# Ignore dependency directories
+node_modules/
+
+# Ignore IDE and editor settings
+.vscode/
+.idea/
+*.iml
+

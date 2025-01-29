@@ -1,0 +1,38 @@
+[
+    {
+        "question": "What is the return policy for items purchased at our store?",
+        "bot_response": "Our store offers a comprehensive return policy designed to make your shopping experience hassle-free:\n\n1. **General Return Policy**: \n   - You can return most items within 30 days of purchase for a full refund or exchange.\n   - Items must be in their original condition, with all tags and packaging intact.\n\n2. **Non-returnable Items**:\n   - Certain items, such as clearance merchandise, perishable goods, and personal care items, are non-returnable. Please check the product description for specific details.\n\n3. **Refund Process**:\n   - Refunds will be issued to the original form of payment.\n   - Credit card refunds will be credited to your card, while cash or check payments will receive a cash refund.\n\nIf you have any further questions or need assistance with a return, feel free to let me know!",
+        "predefined_answer": "You can return most items within 30 days of purchase for a full refund or exchange. Items must be in their original condition, with all tags and packaging intact. Please bring your receipt or proof of purchase when returning items.",
+        "bleu_score": 19.19997688511619,
+        "rouge_scores": {
+            "rouge1": 0.4242,
+            "rouge2": 0.3558,
+            "rougeL": 0.4
+        },
+        "meteor_score": null
+    },
+    {
+        "question": "Are there any items that cannot be returned under this policy?",
+        "bot_response": "Yes, there are certain items that are non-returnable under our return policy. These include:\n\n- **Clearance Merchandise**: Items sold at a clearance price are typically final sale and cannot be returned.\n- **Perishable Goods**: Products such as food items or plants that have a limited shelf life.\n- **Personal Care Items**: Items related to hygiene and personal care are generally non-returnable for safety reasons.\n\nPlease ensure you check the product description for specific details related to return eligibility. If you have questions about a particular item, feel free to ask!",
+        "predefined_answer": "Yes, certain items such as clearance merchandise, perishable goods, and personal care items are non-returnable. Please check the product description or ask a store associate for more details.",
+        "bleu_score": 4.697778939607033,
+        "rouge_scores": {
+            "rouge1": 0.4407,
+            "rouge2": 0.2069,
+            "rougeL": 0.339
+        },
+        "meteor_score": null
+    },
+    {
+        "question": "How will I receive my refund?",
+        "bot_response": "Refunds will be issued to the original form of payment used at the time of purchase. Here's how it works:\n\n- **Credit Card Payments**: The refund will be credited back to your credit card.\n- **Cash or Check Payments**: You will receive your refund in cash.\n\nIf you have any additional questions about the refund process or need further assistance, please let me know.",
+        "predefined_answer": "Refunds will be issued to the original form of payment. If you paid by credit card, the refund will be credited to your card. If you paid by cash or check, you will receive a cash refund.",
+        "bleu_score": 19.06618402253321,
+        "rouge_scores": {
+            "rouge1": 0.6,
+            "rouge2": 0.4082,
+            "rougeL": 0.56
+        },
+        "meteor_score": null
+    }
+]
