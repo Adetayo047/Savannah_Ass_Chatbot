@@ -8,7 +8,7 @@
    ```bash
    pytest test/test_faq.py -v
    ```
-!images(image)
+!images(Screenshot 2025-01-30 093015.jpg)
 
 ## Testing with `pytest`
 
