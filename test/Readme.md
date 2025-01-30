@@ -1,6 +1,6 @@
 # Savannah_Ass_Chatbot
 
-![demo](./Screenshot 2025-01-30 093015.jpg)
+![demo](./test/Screenshot 2025-01-30 093015.jpg)
 
 **Run the tests using `pytest`:**
 
